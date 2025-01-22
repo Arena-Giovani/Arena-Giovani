@@ -1,0 +1,11 @@
+// Definizione dei nuovi colori
+$primary: #ff5f5f;     // Colore principale (rosso)
+$secondary: #a074ff;   // Colore per titoli e sottotitoli (viola)
+$warning: #ffdd33;     // Sfondo per parti speciali (giallo)
+
+// Aggiorniamo anche i colori CSS personalizzati
+:root {
+  --bs-primary: #ff5f5f;
+  --bs-secondary: #a074ff;
+  --bs-warning: #ffdd33;
+}
